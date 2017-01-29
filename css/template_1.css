@@ -1,0 +1,63 @@
+/*.navbar-form .input-group {
+    display: table;
+}
+.navbar-form .input-group .input-group-addon,
+.navbar-form .input-group .input-group-btn {
+    white-space: nowrap;
+    width: 1%;
+}
+.navbar-form .input-group .form-control {
+    width: 100%;
+}*/
+
+.navbar-right{
+    position: relative;
+    margin-top: -50px
+}
+.container{
+    width:960px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: auto;
+}
+.navbar-brand{
+    height: 110px;
+    float: left;
+}
+.navbar-form{
+    padding-top: 25px;
+}
+
+.navbar-right li{
+    font-size: 20px;
+    float: right;
+}
+
+.list-group{
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.sub-item{
+    padding-left: 50px;
+}
+
+.list-group  a.disabled-perso{
+    text-decoration: none;
+    background-color: #F5F5F5;
+}
+
+.img-brand{
+    position: fixed;
+}
+
+.Nom-Enseignant{
+   position: absolute;
+   padding-left:250px;
+   padding-top: 80px;
+}
+.btn-attribuer{
+    margin-left: 650px;
+    position: absolute;
+    margin-top: -35px;
+}

@@ -1,0 +1,72 @@
+.container{
+    width:960px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: auto;
+}
+.navbar-brand{
+    height: 110px;
+    float: left;
+}
+.navbar-form{
+    padding-top: 25px;
+}
+.navbar-right{
+    position: relative;
+    margin-top: -50px
+}
+.navbar-right li{
+/*    padding-top: 25px;*/
+    font-size: 20px;
+    float: right;
+}
+main{
+    margin-top: 105px;
+}
+.list-group{
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.sub-item{
+    padding-left: 50px;
+}
+
+.list-group  a.disabled-perso{
+    text-decoration: none;
+    background-color: #F5F5F5;
+}
+
+.Nom-Enseignant{
+   position: absolute;
+   margin-left:-90px;
+   padding-top: 80px;
+}
+.btn-attribuer{
+    margin-left: 635px;
+    position: absolute;
+    margin-top: -35px;
+    width: 80px;
+}
+.btn-enseignant-admin{
+    margin-top: -80px; 
+    margin-left: 710px;
+}
+.btn-suiviSujet{
+    margin-top: -45px;
+    margin-left: 150px;
+}
+.alert-view{
+    width:780px;
+}
+.jqxgrid{
+    font-size: 15px; 
+    font-family: Verdana; 
+    margin-top:40px;
+}
+.label-SuiviSujet{
+    background-color:transparent;
+    border:0px;
+    text-align: center;
+    width: 150px;
+}
